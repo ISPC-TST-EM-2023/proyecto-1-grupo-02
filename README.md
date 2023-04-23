@@ -2,12 +2,17 @@
 
 # Tecnicatura en Telecomunicaciones
 
-# Materia: Electronica Microcontrolada
+# Materia: 
+Electronica Microcontrolada
 
-# Nombre del grupo: Grupo N° 2 - Programando el ESP32
+# Nombre del grupo: 
+Grupo N° 2 - Programando el ESP32
 
-# Integrantes: Jose Maximiliano Gimenez https://github.com/Maxg8704
+# Integrantes: 
+Jose Maximiliano Gimenez https://github.com/Maxg8704
 
-# Docente: Cristian Gonzalo VERA.
+# Docente: 
+Cristian Gonzalo VERA.
 
-# Año: 2023
+# Año: 
+2023
