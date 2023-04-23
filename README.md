@@ -13,8 +13,7 @@
 
 # Docente: 
 
-Cristian Gonzalo VERA. Profesor en el Instituto Superior Politecnico de Cordoba 
-<a href="https://github.com/Gona79"></a>
+<a href="https://github.com/Gona79">Cristian Gonzalo VERA</a>. Profesor en el Instituto Superior Politecnico de Cordoba 
 
 # Año: 2023
 
