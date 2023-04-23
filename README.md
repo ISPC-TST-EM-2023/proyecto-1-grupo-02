@@ -6,7 +6,7 @@
 Electronica Microcontrolada
 
 # Nombre del grupo: 
-Grupo N° 2 - Programando el ESP32
+Proyecto N°1 Grupo N° 2 - Programando el ESP32
 
 # Integrantes: 
 Jose Maximiliano Gimenez https://github.com/Maxg8704
