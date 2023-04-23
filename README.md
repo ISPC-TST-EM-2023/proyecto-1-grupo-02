@@ -2,7 +2,8 @@
 
 # Tecnicatura en Telecomunicaciones
 
-# Materia: Electronica Microcontrolada
+# Materia: 
+Electronica Microcontrolada
 
 # Nombre del grupo: 
 Proyecto N°1 Grupo N° 2 - Programando el ESP32
