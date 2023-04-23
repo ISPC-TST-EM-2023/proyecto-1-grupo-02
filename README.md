@@ -8,8 +8,8 @@
 
 # Integrantes: 
 
-* Jose Maximiliano Gimenez <a href="https://github.com/Maxg8704"></a>
-* Nahuel Deco              <a href="https://github.com/NahuelDe"></a> 
+<a href="https://github.com/Maxg8704">Jose Maximiliano Gimenez</a>
+<a href="https://github.com/NahuelDe">Nahuel Deco</a> 
 
 # Docente: 
 
