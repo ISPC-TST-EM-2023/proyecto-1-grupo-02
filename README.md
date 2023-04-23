@@ -6,7 +6,7 @@ Materia: Electronica Microcontrolada
 
 Nombre del grupo: Grupo N° 2 - Programando el ESP32
 
-Integrantes: Nahuel Deco, Jose Maximiliano Gimenez.
+Integrantes: Jose Maximiliano Gimenez.
 
 Docente: Cristian Gonzalo VERA.
 
