@@ -8,10 +8,13 @@
 
 # Integrantes: 
 
-* Jose Maximiliano Gimenez https://github.com/Maxg8704
-* Nahuel Deco              https://github.com/NahuelDe
+* Jose Maximiliano Gimenez <a href="https://github.com/Maxg8704"></a>
+* Nahuel Deco              <a href="https://github.com/NahuelDe"></a> 
 
-# Docente: Cristian Gonzalo VERA. Profesor en el Instituto Superior Politecnico de Cordoba https://github.com/Gona79
+# Docente: 
+
+Cristian Gonzalo VERA. Profesor en el Instituto Superior Politecnico de Cordoba 
+<a href="https://github.com/Gona79"></a>
 
 # Año: 2023
 
