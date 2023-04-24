@@ -18,7 +18,8 @@
 
 # Video Presentacion Grupal
 
-
+* Jose Maximiliano Gimenez https://drive.google.com/file/d/1IqIs-283KVwTXiYG-mrrgTA1uq1RlDIF/view
+* Nahuel Deco https://drive.google.com/file/d/15WXmeoAalNFsGodtHCqidYYtJ_eBLx82/view
 
 # Año: 2023
 
