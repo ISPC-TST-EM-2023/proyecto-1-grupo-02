@@ -10,7 +10,9 @@
 
 *<a href="https://github.com/Maxg8704">Jose Maximiliano Gimenez(SCRUM MASTER)</a>
 
-*<a href="https://github.com/NahuelDe">Nahuel Deco(SCRUM TEAM)</a> 
+*<a href="https://github.com/NahuelDe">Nahuel Deco(SCRUM TEAM)</a>
+
+*<a href="https://github.com/MrGuz2022">Miguel Gaspar Guzman(SCRUM TEAM)</a> 
 
 # Docente: 
 
