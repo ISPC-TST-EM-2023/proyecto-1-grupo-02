@@ -1,0 +1,29 @@
+# Control de LED y monitoreo de temperatura con ESP32
+Este programa permite controlar un LED a través de una página web alojada en un ESP32, y monitorear la temperatura a través de una entrada analógica. El LED puede ser encendido o apagado desde la página web, y se enciende automáticamente si la temperatura es mayor o igual a 25 grados Celsius.
+
+## Requerimientos
+Para utilizar este programa se necesita:
+
+ESP32
+Sensor de temperatura (puede ser simulado con un potenciómetro)
+LED
+Resistencia de 220 ohmios
+Conexión a una red WiFi
+
+## Instalación
+Clonar este repositorio o descargar los archivos.
+Abrir el proyecto en VSCode con la extensión PlatformIO.
+Configurar el archivo platformio.ini con las credenciales de la red WiFi.
+Configurar el archivo main.cpp con los pines correspondientes del LED y la entrada analógica.
+Compilar y cargar el programa en el ESP32.
+
+## Uso
+Una vez que el programa está cargado en el ESP32, se puede acceder a la página web desde cualquier dispositivo conectado a la misma red WiFi. La dirección IP del ESP32 se puede obtener desde el monitor serial de la plataforma de desarrollo.
+
+La página web muestra la temperatura actual y un botón para encender o apagar el LED. Si la temperatura es mayor o igual a 25 grados Celsius, el LED se encenderá automáticamente.
+
+## Créditos
+Este programa fue desarrollado por [Nombre del desarrollador]. Se utilizó la biblioteca ESPAsyncWebServer para implementar el servidor web y la biblioteca WiFi para conectarse a la red WiFi.
+
+## Licencia
+Este programa está bajo licencia [Tipo de licencia]. Se permite su uso, modificación y distribución bajo los términos de la licencia. Consulte el archivo LICENSE.md para obtener más información.
